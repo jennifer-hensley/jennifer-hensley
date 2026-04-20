@@ -44,7 +44,7 @@ An integrated site featuring a blog, gallery, and web shop. I am working on a cu
 ### Selected Past Work
 
 **AR Industrial Configurator (Thesis Project)**
-Developed an AR application for industrial product configuration, specifically for heavy machinery. The project allowed users to customize components like tires and colors while viewing a 3D model in a real-world environment. I designed the UI and the navigation system, including the logic for translating, rotating, and scaling the model, as well as a dynamic pricing display that updated based on the configuration.
+Developed an AR application for industrial product configuration, specifically for heavy machinery. The project allowed users to customize components like tires and colors while viewing a 3D model in a real-world environment. I designed the UI and the navigation system, including the logic for translating, rotating, and scaling the model. It also features a functionality where users could tap specific components to retrieve and display technical data, like product name, number etc. , pulled from Windchill. 
 
 ---
 ##Contact Information:
